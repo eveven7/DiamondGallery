@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DiamondGallery/static/css/main.eee42fe2.css",
+    "main.js": "/DiamondGallery/static/js/main.170368da.js",
+    "static/media/reviews1.jpg": "/DiamondGallery/static/media/reviews1.5908898c0939de1d3cc0.jpg",
+    "static/media/reviews2.jpg": "/DiamondGallery/static/media/reviews2.83db7ff18b71774eedda.jpg",
+    "static/media/reviews3.jpg": "/DiamondGallery/static/media/reviews3.ae84672721a131e47022.jpg",
+    "static/media/10295.png": "/DiamondGallery/static/media/10295.5651c49b3fb2109d74dc.png",
+    "static/media/ourStory.png": "/DiamondGallery/static/media/ourStory.69138735057a03531e9f.png",
+    "static/media/earings.png": "/DiamondGallery/static/media/earings.4823ea9a23786dff93ba.png",
+    "static/media/necklaces.png": "/DiamondGallery/static/media/necklaces.1d3b37c1016d9393877b.png",
+    "static/media/bracelets.png": "/DiamondGallery/static/media/bracelets.075f8c329bbe20dbef4d.png",
+    "static/media/rings.png": "/DiamondGallery/static/media/rings.5a1fb578085159d36195.png",
+    "static/media/logo3.png": "/DiamondGallery/static/media/logo3.09871129511e56af13e0.png",
+    "index.html": "/DiamondGallery/index.html",
+    "main.eee42fe2.css.map": "/DiamondGallery/static/css/main.eee42fe2.css.map",
+    "main.170368da.js.map": "/DiamondGallery/static/js/main.170368da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eee42fe2.css",
+    "static/js/main.170368da.js"
+  ]
+}
